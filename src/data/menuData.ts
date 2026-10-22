@@ -9,7 +9,7 @@ import termsFullImg from '../assets/images/terms_full.jpg';
 import type { MenuCategory, TermsData } from '../types';
 
 export const brandInfo = {
-  name: "Magic'n'Food",
+  name: "Magicfinger'n'food",
   tagline: "Unparalleled and Exceptional Local and International Gourmet Cuisine",
   year: "2026",
   subTitle: "MINI FOOD BOWLS & AFTER PARTY MENU",
@@ -137,6 +137,11 @@ export const menuCategories: MenuCategory[] = [
     primaryImageAlt: "Loaded after party platter featuring grilled fish, chargrilled chicken, golden yam fries, boli and rich spicy pepper sauces",
     layoutVariant: 'default',
     items: [
+      {
+        id: "ap-0",
+        name: "Asun",
+        price: "₦3,000"
+      },
       {
         id: "ap-1",
         name: "Grilled Fish and Chips with Salad",

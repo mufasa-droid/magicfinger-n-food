@@ -14,7 +14,7 @@ export const Hero: React.FC = () => {
           </div>
 
           <h1 className="hero-brand-title">
-            <span className="hero-brand-title__accent">Magic’n’Food</span>
+            <span className="hero-brand-title__accent">Magicfinger’n’food</span>
           </h1>
 
           <h2 className="hero-subtitle">

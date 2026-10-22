@@ -26,8 +26,8 @@ export const Header: React.FC = () => {
   return (
     <header className={`site-header ${isScrolled ? 'site-header--scrolled' : ''}`}>
       <div className="site-header__container">
-        <a href="#" className="brand-wordmark" aria-label="Magic'n'Food Home">
-          <span className="brand-wordmark__main">Magic’n’Food</span>
+        <a href="#" className="brand-wordmark" aria-label="Magicfinger'n'food Home">
+          <span className="brand-wordmark__main">Magicfinger’n’food</span>
           <span className="brand-wordmark__sub">Gourmet Catering</span>
         </a>
 
